@@ -30,6 +30,8 @@ Task: Determine the day of the week when most users register on Instagram. Provi
 ## B) Investor Metrics:
 
 User Engagement: Investors want to know if users are still active and posting on Instagram or if they are making fewer posts.
-Your Task: Calculate the average number of posts per user on Instagram. Also, provide the total number of photos on Instagram divided by the total number of users.
+Task: Calculate the average number of posts per user on Instagram. Also, provide the total number of photos on Instagram divided by the total number of users.
+
+
 Bots & Fake Accounts: Investors want to know if the platform is crowded with fake and dummy accounts.
-Your Task: Identify users (potential bots) who have liked every single photo on the site, as this is not typically possible for a normal user.
+Task: Identify users (potential bots) who have liked every single photo on the site, as this is not typically possible for a normal user.
